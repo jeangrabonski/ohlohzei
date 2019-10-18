@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yiezeequi.dominicumbeer.de/sitemap.xml
